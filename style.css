@@ -1,0 +1,28 @@
+body{
+    color: rgb(112, 4, 0);
+    text-align: center;
+    font-weight: 1000;
+}
+
+h1{
+    font-size: 5rem;
+}
+.container
+{
+    height: 100vh;
+    width: 100%;
+    background-image: url("isaac-mitchell-JVO9g1SEUl8-unsplash.jpg");
+    background-repeat: no-repeat;
+    
+}
+button
+{
+    border-radius: 50%;
+}
+.container1
+{
+    height: 100vh;
+    width: 100%;
+    background-image: url("isaac-mitchell-JVO9g1SEUl8-unsplash.jpg");
+    background-repeat: no-repeat;
+}
